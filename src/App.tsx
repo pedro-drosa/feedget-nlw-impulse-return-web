@@ -1,5 +1,5 @@
 function App() {
-  return <h1>Hello, NLW</h1>;
+  return <button className="bg-[#fb1]">Teste</button>;
 }
 
 export default App;
